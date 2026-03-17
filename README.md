@@ -1,4 +1,4 @@
-# Global accounting of environmental externalities reveals large costs of livestock production
+# Global accounting shows that environmental costs of livestock production exceed its economic value
 
 This repository contains the notebooks and file structure used to reproduce the welfare accounting workflow for livestock production. The analysis monetizes three environmental damage channels—enteric and manure greenhouse gas emissions, land-use carbon opportunity costs, and nitrogen pollution—and compares them with livestock production value under low, mid, and high social cost scenarios.
 
